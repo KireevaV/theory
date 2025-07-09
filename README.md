@@ -6,11 +6,9 @@
 - Определение типов тестирования (черный ящик, белый ящик, серый ящик и т.п.);
 - Определение уровней тестирования (модульное, интеграционное, системное, приёмочное)  
 
-[ссылка на документ]
-(https://docs.google.com/spreadsheets/d/1TIF7dtxau5kZLZLvt1nz8Pyd_c5xVkEb/edit?usp=sharing&ouid=102124894473682971527&rtpof=true&sd=true)
+[ссылка на документ](https://docs.google.com/spreadsheets/d/1TIF7dtxau5kZLZLvt1nz8Pyd_c5xVkEb/edit?usp=sharing&ouid=102124894473682971527&rtpof=true&sd=true)
 
 ## Анализ требований и макета для приложения интернет-магазин
 - Анализ требований к интернет-приложению на основе предоставленного макета
 
-[ссылка на документ]  
-(https://docs.google.com/spreadsheets/d/10ZimsGRD4sgVwJ-0BPL4zdSmWsyXxFEGsPRfLGrMjww/edit?gid=0#gid=0)
+[ссылка на документ](https://docs.google.com/spreadsheets/d/10ZimsGRD4sgVwJ-0BPL4zdSmWsyXxFEGsPRfLGrMjww/edit?gid=0#gid=0)
